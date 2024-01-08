@@ -1,0 +1,6 @@
+1. Model selection:
+
+2. Large scale learning: 
+    Nyström method?
+
+3. Asymmetric cost:
