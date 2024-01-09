@@ -18,4 +18,4 @@ Tuned the structual features of a drug candidate, which affects its absorption a
 ## project 4
 implemented Soft Actor Critic (SAC), an off-policy Reinforcement learning algorithm, that by practicing on a simulator learned to control a policy for a Pendulum and make it swing up from an angle of π to 0. 
 
-[Media/pendulum.png](Media/pendulum_episode.mp4)
+[![Pendulum](Media/pendulum.png)](Media/pendulum_episode.mp4)
