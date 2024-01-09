@@ -15,7 +15,7 @@ Implimentation of a SWA-Gaussian to classify land-use patterns from satellite im
 </p>
 
 ## Project 3
-Tuned the structual features of a drug candidate, which affects its absorption and distribution using Bayesian optimization. I used the Expected improvement (EI) as the aqusition function.
+Used Bayesian optimization in order to tune the structual features of a drug candidate, which affected its absorption and distribution. I used the Expected improvement (EI) as the aqusition function.
 
 ## Project 4
 Implimetation of Soft Actor Critic (SAC), an off-policy Reinforcement learning algorithm, that by practicing on a simulator learned to control a policy for a Pendulum and make it swing up from an angle of π to 0. 
