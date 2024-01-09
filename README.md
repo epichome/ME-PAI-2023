@@ -17,7 +17,7 @@ Implimentation of a SWA-Gaussian to classify land-use patterns from satellite im
 Tuned the structual features of a drug candidate, which affects its absorption and distribution using Bayesian optimization. I used the Expected improvement (EI) as the aqusition function.
 
 ## project 4
-implimetation of Soft Actor Critic (SAC), an off-policy Reinforcement learning algorithm, that by practicing on a simulator learned to control a policy for a Pendulum and make it swing up from an angle of π to 0. 
+Implimetation of Soft Actor Critic (SAC), an off-policy Reinforcement learning algorithm, that by practicing on a simulator learned to control a policy for a Pendulum and make it swing up from an angle of π to 0. 
 
 <p align="left">
   <img src="https://github.com/epichome/Probabilistic-Artificial-Intelligence-2023/blob/main/Media/pendulum_episode.gif" >  
