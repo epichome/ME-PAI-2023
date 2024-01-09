@@ -1,5 +1,5 @@
 # Probabilistic Artificial Intelligence 2023
-My projects for successful completion of the course Probabilistic Artifical Intelligence led by Prof. Andreas Krause at ETH Zurich, fall semester 2023. Partial code skeletons were provided and core logic and algorithms were implemented by the students. Evaluation was performed on black-box test data in a fixed environment, with a pass for successfully beating the performance baselines.
+My projects required for successful completion of the course Probabilistic Artifical Intelligence led by Prof. Andreas Krause at ETH Zurich, fall semester 2023. Partial code skeletons were provided and core logic and algorithms were implemented by the students. Evaluation was performed on black-box test data in a fixed environment, with a pass for successfully beating the performance baselines.
 
 ## Project 0 
 Very simple exact bayesian inference outputting posterior probabilities, given fixed prior probabilities for sampling from three known distributions (Normal, Laplace, Student).
