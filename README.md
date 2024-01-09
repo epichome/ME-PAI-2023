@@ -13,6 +13,7 @@ Implimentation of a SWA-Gaussian to classify land-use patterns from satellite im
 <p align="left">
   <img src="https://github.com/epichome/Probabilistic-Artificial-Intelligence-2023/blob/main/Media/satellite.png" height="320">  
 </p>
+
 ## project 3
 Tuned the structual features of a drug candidate, which affects its absorption and distribution using Bayesian optimization. I used the Expected improvement (EI) as the aqusition function.
 
