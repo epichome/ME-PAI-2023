@@ -10,8 +10,9 @@ Implimentation of Gaussian Process regression in order to model air pollution an
 ## project 2
 Implimentation of a SWA-Gaussian to classify land-use patterns from satellite images. The implimentation also solved the problem of ambigious where one image could fit in on multiple classifications. 
 
-![Classification of satellite images](Media/satellite.png?raw=true "Satellite images")
-
+<p align="left">
+  <img src="https://github.com/epichome/Probabilistic-Artificial-Intelligence-2023/blob/main/Media/satellite.png" height="320">  
+</p>
 ## project 3
 Tuned the structual features of a drug candidate, which affects its absorption and distribution using Bayesian optimization. I used the Expected improvement (EI) as the aqusition function.
 
